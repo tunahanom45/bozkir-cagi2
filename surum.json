@@ -1,0 +1,6 @@
+{
+  "version": "0.1.3",
+  "pck": "oyun_0.1.3.pck",
+  "sha256": "6417c5b86f13f077e465eac3de7500c83d8222908cb20d73ef370fde86fecfbc",
+  "notes": "- **Otomatik güncelleme:** Oyun açılırken yeni sürüm olup olmadığına bakar; varsa kendisi indirip kurar. Artık zip indirmek gerekmez.\n- Oyun ile sunucunun sürümü farklıysa girişte açık bir uyarı çıkar.\n- Sürüm numarası tek bir yerden (surum.txt) yönetiliyor."
+}
