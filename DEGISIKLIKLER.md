@@ -1,5 +1,20 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.3.0 — Büyük güncelleme: yetenekler, sandıklar, yeni dünya
+- **Yeni dünya:** desenli yurtlar, pazar tezgâhı, kamp ateşleri, toprak yollar, ormanlar, nilüferli Kara Bataklık ve harabeleri, kayalarla çevrili Kara Han Mağarası, karlı dağlar, otlar ve çiçekler.
+- **Mini harita** (sağ üstte, kamerayla döner) ve **büyük harita (M)**: canavarlar kırmızı, oyuncular mavi, sandıklar sarı.
+- **MP (mana)** ve **her sınıfa 4 yetenek** (Sv 1/3/5/7): Savaşçı — Ağır Darbe, Kılıç Girdabı, Kalkan Duvarı, Savaş Narası; Okçu — Çifte Ok, Zehirli Ok, Ok Yağmuru, Rüzgar Adımı; Kam — Ruh Ateşi, Şifa, Buz Mızrağı, Gök Gürültüsü.
+- **Yetenek çubuğu:** 1-4 yetenekler, 5 can iksiri, 6 ruh (mana) iksiri, R normal saldırı. Simgeler, bekleme süresi, kilit ve mana uyarısı.
+- **Sandık ganimeti:** canavarlar sandık düşürür. Sandığa sol tıkla → karakter yanına yürür ve açar. 3x2 = 6 yuvalı sandık penceresi, tek tek ya da "Hepsini Al".
+- **Karakterli envanter (I):** ortada döndürülebilir 3D karakterin, etrafında 6 ekipman yuvası: Silah, Yan El, Başlık, Zırh, Kolye, Yüzük.
+- **Eşyalar karakterde görünür:** miğfer, kalkan (yuvarlak / armalı / dikenli), kukuleta, kam börkü, büyü kitabı, hançer, pelerin; zırh seviyesine göre zırh rengi değişir.
+- **Yeni eşyalar:** kalkanlar, hançerler, büyü kitapları, miğferler, kukuletalar, börkler, kolyeler, yüzükler, Ruh İksiri. Hepsi Kor Ocağı'nda yükseltilebilir.
+- **49 yeni ikon** (eşyalar ve yetenekler).
+- **Fare:** yere sol tıkla → oraya yürü (yeşil işaret). Canavara tıkla → hedef. NPC'ye tıkla → konuş.
+- **Grafik kalitesi** seçimi (giriş ekranı): Düşük / Orta / Yüksek. Bilgisayarın zorlanırsa Düşük'ü seç.
+- Yeni karakterler Deri Zırh ile başlar.
+- Görsel modeller: KayKit (Kay Lousberg, CC0).
+
 ## v0.2.0 — Gerçek 3D karakterler
 - **Animasyonlu 3D karakterler:** Savaşçı (şövalye), Okçu ve Kam artık iskeletli, animasyonlu modellerle geliyor.
 - **Elinde gerçek silah:** Savaşçı kılıç + kalkan, Okçu arbalet, Kam değnek/asa taşır. Daha iyi silah kuşanınca eldeki silah değişir (3. seviye: iki elli kılıç, arbalet + hançer, asa + büyü kitabı).
