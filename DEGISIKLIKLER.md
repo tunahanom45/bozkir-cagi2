@@ -1,5 +1,16 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.2.0 — Gerçek 3D karakterler
+- **Animasyonlu 3D karakterler:** Savaşçı (şövalye), Okçu ve Kam artık iskeletli, animasyonlu modellerle geliyor.
+- **Elinde gerçek silah:** Savaşçı kılıç + kalkan, Okçu arbalet, Kam değnek/asa taşır. Daha iyi silah kuşanınca eldeki silah değişir (3. seviye: iki elli kılıç, arbalet + hançer, asa + büyü kitabı).
+- **Animasyonlar:** bekleme, yürüme, koşma, saldırı, yetenek (Ağır Darbe dönerek vuruş, Çifte Ok seri atış, Ruh Ateşi uzun büyü), darbe alma, iksir içme, seviye atlayınca sevinme, ölüm.
+- **Yeni düşmanlar — Erlik Han'ın ordusu:** Erlik Eri, Kemik Savaşçı, uzaktan büyü atan Erlik Kamı ve boss Kara Han. İskeletler ölünce kemiklerine ayrılarak yıkılır.
+- Bölge adları: Kemik Ovası, Kemik Korusu, Kara Bataklık, Kara Han Mağarası.
+- Tüccar ve Demirci artık animasyonlu; Demirci baltasıyla örsü döver.
+- Kamera karaktere daha yakın, ışık ve renkler daha dengeli.
+- Boy rengi pelerin rengine yansır (Kurt Boyu mavi, Kartal Boyu turuncu).
+- Modeller: KayKit (Kay Lousberg, CC0 lisans).
+
 ## v0.1.3
 - **Otomatik güncelleme:** Oyun açılırken yeni sürüm olup olmadığına bakar; varsa kendisi indirip kurar. Artık zip indirmek gerekmez.
 - Oyun ile sunucunun sürümü farklıysa girişte açık bir uyarı çıkar.
