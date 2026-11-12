@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "pck": "oyun_0.4.0.pck",
-  "sha256": "677544ba8db7c8199aebc28c478d63ae49eb581cd67b08ffb9e9ad1b09806fa6",
+  "version": "0.4.1",
+  "pck": "oyun_0.4.1.pck",
+  "sha256": "2db62e0e59ddbb4153daef860cbd4ccdd61567360f12f9ca280e9470177a07e5",
   "varlik": 1,
-  "notes": "- **Beceri puanı sistemi:** her seviyede +2 beceri puanı. **K** tuşuyla Beceriler penceresini aç, puanları istediğin yeteneğe ver. Her puan yeteneğin etkisini %6 artırır, yetenek başına en fazla 15 puan.\n- **Seviye sınırı 30** (toplam 59 beceri puanı: hepsini doldurmak mümkün değil, seçim yapmalısın).\n- **Her sınıfa 5. yetenek ve hız yetenekleri:** Savaşçı — Hücum (hız), Okçu — Keskin Göz (saldırı hızı), Kam — Rüzgar Kanadı (hız). Yetenekler Sv 1 / 3 / 6 / 9 / 12'de açılır.\n- **Yetenek çubuğu:** 1-5 yetenekler, 6 can iksiri, 7 mana iksiri, R normal saldırı.\n- **Okçunun saldırı hızı arttı** (1,0 sn → 0,8 sn).\n- **Çarpışma:** karakter artık ağaçların, kayaların, yurtların, çadırların, tezgâhların ve eşyaların içinden geçmiyor; kenarından kayarak dolaşıyor.\n- **Orman seyreltildi:** Kemik Korusu'ndaki ağaç kümeleri tekli ağaçlarla değiştirildi.\n- Eski karakterlere seviyelerine göre beceri puanları geriye dönük verildi."
+  "notes": "- **ESC menüsü:** Oyuna Dön, Ayarlar, Karakter Ekranına Dön, Oyundan Çık.\n- **Ayarlar:** grafik kalitesi, tam ekran, kamera (fare) hassasiyeti, tuş yardımını göster/gizle. Ayarlar kaydedilir.\n- **Karakter Ekranına Dön** ve **Oyundan Çık** karakterini kaydedip çıkar; tekrar girince kaldığın yerden devam edersin.\n- ESC önce açık pencereyi (çanta, beceriler, sandık, harita…) kapatır; açık pencere yoksa menüyü açar. Menü açıkken karakter yürümez."
 }

@@ -1,5 +1,11 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.4.1 — ESC menüsü
+- **ESC menüsü:** Oyuna Dön, Ayarlar, Karakter Ekranına Dön, Oyundan Çık.
+- **Ayarlar:** grafik kalitesi, tam ekran, kamera (fare) hassasiyeti, tuş yardımını göster/gizle. Ayarlar kaydedilir.
+- **Karakter Ekranına Dön** ve **Oyundan Çık** karakterini kaydedip çıkar; tekrar girince kaldığın yerden devam edersin.
+- ESC önce açık pencereyi (çanta, beceriler, sandık, harita…) kapatır; açık pencere yoksa menüyü açar. Menü açıkken karakter yürümez.
+
 ## v0.4.0 — Beceri puanları ve çarpışma
 - **Beceri puanı sistemi:** her seviyede +2 beceri puanı. **K** tuşuyla Beceriler penceresini aç, puanları istediğin yeteneğe ver. Her puan yeteneğin etkisini %6 artırır, yetenek başına en fazla 15 puan.
 - **Seviye sınırı 30** (toplam 59 beceri puanı: hepsini doldurmak mümkün değil, seçim yapmalısın).
