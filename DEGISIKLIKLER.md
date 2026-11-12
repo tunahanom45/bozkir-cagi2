@@ -1,5 +1,12 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.6.0 — Eşya nadirliği ve statlar
+- **Nadirlik:** Sıradan (beyaz), Nadir (mavi, statlar %15 fazla), Destansı (mor, %35 fazla + 1 ek stat), Efsanevi (turuncu, %60 fazla + 2 ek stat). Canavarların düşürdüğü eşyaların nadirliği rastgeledir; Kara Han'da şans 2 kat. Efsanevi eşya bulunca herkese duyurulur.
+- **Her 10 seviyede bir eşya kademesi:** Sv 1, Sv 10, Sv 20 ve yeni **Sv 30 Gök Tengri** seti (Kara Han'dan çok nadir düşer). Seviyen yetmeyen eşyalar kırmızımsı görünür ve giyilemez.
+- **Sol tık → eşya stat penceresi:** nadirlik, gereken seviye, sınıf, tüm statlar (ek statlar yeşil), Kor Ocağı seviyesi ve satış fiyatı. Pencereden kuşan / sat / yükselt.
+- **Sağ tık → giy / kullan.** Ekipman yuvasında sağ tık → çıkar.
+- Eşya çerçeveleri nadirlik rengindedir. Nadir eşyalar daha pahalıya satılır.
+
 ## v0.5.2
 - **Engel etrafından dolaşma iyileştirildi:** karakter (yere tıklayarak yürürken de) kamp ateşi, ağaç ve kaya gibi engellere takılıp kalmıyor; engelin çevresinden hedefe yakın taraftan dolaşıyor.
 

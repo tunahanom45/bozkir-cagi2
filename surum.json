@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "pck": "oyun_0.5.2.pck",
-  "sha256": "3df0191fd5d7a5bfab6b0fa20e43d4af72b35a6401332a58a2a1a71a14b7eb8c",
+  "version": "0.6.0",
+  "pck": "oyun_0.6.0.pck",
+  "sha256": "d70012ff7dd159a18cbf049e8983d0a8a9ffbe718f4a495bd02f15623ad11c9d",
   "varlik": 1,
-  "notes": "- **Engel etrafından dolaşma iyileştirildi:** karakter (yere tıklayarak yürürken de) kamp ateşi, ağaç ve kaya gibi engellere takılıp kalmıyor; engelin çevresinden hedefe yakın taraftan dolaşıyor."
+  "notes": "- **Nadirlik:** Sıradan (beyaz), Nadir (mavi, statlar %15 fazla), Destansı (mor, %35 fazla + 1 ek stat), Efsanevi (turuncu, %60 fazla + 2 ek stat). Canavarların düşürdüğü eşyaların nadirliği rastgeledir; Kara Han'da şans 2 kat. Efsanevi eşya bulunca herkese duyurulur.\n- **Her 10 seviyede bir eşya kademesi:** Sv 1, Sv 10, Sv 20 ve yeni **Sv 30 Gök Tengri** seti (Kara Han'dan çok nadir düşer). Seviyen yetmeyen eşyalar kırmızımsı görünür ve giyilemez.\n- **Sol tık → eşya stat penceresi:** nadirlik, gereken seviye, sınıf, tüm statlar (ek statlar yeşil), Kor Ocağı seviyesi ve satış fiyatı. Pencereden kuşan / sat / yükselt.\n- **Sağ tık → giy / kullan.** Ekipman yuvasında sağ tık → çıkar.\n- Eşya çerçeveleri nadirlik rengindedir. Nadir eşyalar daha pahalıya satılır."
 }
