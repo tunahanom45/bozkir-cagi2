@@ -1,7 +1,14 @@
 {
-  "version": "0.6.0",
-  "pck": "oyun_0.6.0.pck",
-  "sha256": "d70012ff7dd159a18cbf049e8983d0a8a9ffbe718f4a495bd02f15623ad11c9d",
-  "varlik": 1,
-  "notes": "- **Nadirlik:** Sıradan (beyaz), Nadir (mavi, statlar %15 fazla), Destansı (mor, %35 fazla + 1 ek stat), Efsanevi (turuncu, %60 fazla + 2 ek stat). Canavarların düşürdüğü eşyaların nadirliği rastgeledir; Kara Han'da şans 2 kat. Efsanevi eşya bulunca herkese duyurulur.\n- **Her 10 seviyede bir eşya kademesi:** Sv 1, Sv 10, Sv 20 ve yeni **Sv 30 Gök Tengri** seti (Kara Han'dan çok nadir düşer). Seviyen yetmeyen eşyalar kırmızımsı görünür ve giyilemez.\n- **Sol tık → eşya stat penceresi:** nadirlik, gereken seviye, sınıf, tüm statlar (ek statlar yeşil), Kor Ocağı seviyesi ve satış fiyatı. Pencereden kuşan / sat / yükselt.\n- **Sağ tık → giy / kullan.** Ekipman yuvasında sağ tık → çıkar.\n- Eşya çerçeveleri nadirlik rengindedir. Nadir eşyalar daha pahalıya satılır."
+  "version": "0.7.0",
+  "pck": "oyun_0.7.0.pck",
+  "sha256": "d812387f4822d0fc3dc1bec5a9e1ddde5ffb83539ce2074f820e661308c1722c",
+  "varlik": 2,
+  "exe": {
+    "Windows": {
+      "surum": 2,
+      "zip": "exe_win_2.zip",
+      "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
+    }
+  },
+  "notes": "- **Gerçekçi zemin:** Çimen, kuru ot, orman toprağı, çamur, kaya ve toprak yol gerçek dokularla, daha net görünür.\n- **Yeni ağaçlar:** Gerçek kabuk ve yaprak dokulu çam, köknar, yapraklı ve kuru ağaçlar; çalılar, eğrelti otları, devrik kütükler ve gerçekçi kayalar.\n- **Ses ve müzik:** Saldırı, isabet, beceri, ölüm, seviye atlama, iksir, sandık, altın, ayak sesi, demirci sesleri ve bölge müzikleri. Ayarlar'da Ana ses / Müzik / Efektler kaydırıcıları.\n- **Satış:** Yığın halindeki malzemeler artık tamamı birden satılır; kurt postu, domuz dişi, albastı saçı ve kemik fiyatları yükseldi.\n- **NPC pencereleri** ekranın ortasında açılır.\n- **Grafik kalitesi** değiştirince anında uygulanır, karaktere yeniden girmek gerekmez.\n- **Seviye kontrolü:** Seviyenin yetmediği giyili eşyalar girişte çantaya alınır ve stat vermez.\n- **Oyun dosyası kendini günceller:** Arka planda bir kez (~32 MB) iner, bir sonraki açılışta geçerli olur. Açılış ekranının sağ altta kalma sorunu bununla düzelir.\n- İlk açılışta yeni modeller için model paketi bir kez yeniden iner."
 }

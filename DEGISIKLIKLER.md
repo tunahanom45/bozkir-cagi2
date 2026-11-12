@@ -1,5 +1,16 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.7.0 — Gerçekçi dünya ve sesler
+- **Gerçekçi zemin:** Çimen, kuru ot, orman toprağı, çamur, kaya ve toprak yol gerçek dokularla, daha net görünür.
+- **Yeni ağaçlar:** Gerçek kabuk ve yaprak dokulu çam, köknar, yapraklı ve kuru ağaçlar; çalılar, eğrelti otları, devrik kütükler ve gerçekçi kayalar.
+- **Ses ve müzik:** Saldırı, isabet, beceri, ölüm, seviye atlama, iksir, sandık, altın, ayak sesi, demirci sesleri ve bölge müzikleri. Ayarlar'da Ana ses / Müzik / Efektler kaydırıcıları.
+- **Satış:** Yığın halindeki malzemeler artık tamamı birden satılır; kurt postu, domuz dişi, albastı saçı ve kemik fiyatları yükseldi.
+- **NPC pencereleri** ekranın ortasında açılır.
+- **Grafik kalitesi** değiştirince anında uygulanır, karaktere yeniden girmek gerekmez.
+- **Seviye kontrolü:** Seviyenin yetmediği giyili eşyalar girişte çantaya alınır ve stat vermez.
+- **Oyun dosyası kendini günceller:** Arka planda bir kez (~32 MB) iner, bir sonraki açılışta geçerli olur. Açılış ekranının sağ altta kalma sorunu bununla düzelir.
+- İlk açılışta yeni modeller için model paketi bir kez yeniden iner.
+
 ## v0.6.0 — Eşya nadirliği ve statlar
 - **Nadirlik:** Sıradan (beyaz), Nadir (mavi, statlar %15 fazla), Destansı (mor, %35 fazla + 1 ek stat), Efsanevi (turuncu, %60 fazla + 2 ek stat). Canavarların düşürdüğü eşyaların nadirliği rastgeledir; Kara Han'da şans 2 kat. Efsanevi eşya bulunca herkese duyurulur.
 - **Her 10 seviyede bir eşya kademesi:** Sv 1, Sv 10, Sv 20 ve yeni **Sv 30 Gök Tengri** seti (Kara Han'dan çok nadir düşer). Seviyen yetmeyen eşyalar kırmızımsı görünür ve giyilemez.
