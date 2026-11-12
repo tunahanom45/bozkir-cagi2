@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "pck": "oyun_0.3.1.pck",
-  "sha256": "83cefc5eeeaa8e8ad260a9c190324272a5a3e00d73e323b4f95ce44f474b6fd0",
+  "version": "0.3.2",
+  "pck": "oyun_0.3.2.pck",
+  "sha256": "2fe31aefaf7fd80fac329f514c481655045c22b249bb9fadeb225addf7374ac4",
   "varlik": 1,
-  "notes": "- **Yavaş internette güncelleme takılması düzeltildi.** Güncellemeler artık ikiye ayrıldı: küçük kod paketi (her sürümde, ~200 KB) ve 3D model paketi (sadece modeller değişince, bir kez iner).\n- Model paketi indirilirken ilerleme çubuğu görünür; süre sınırı yoktur, bağlantı koparsa 5 kez tekrar dener.\n- Oyun paketinden gereksiz ekran görüntüleri çıkarıldı (indirme ~5 MB küçüldü)."
+  "notes": "- **Can çubukları düzeltildi:** can azaldıkça çubuk artık soldan sağa doğru boşalıyor (önce iki yandan birden kısalıyordu).\n- **Ölen canavarların ve oyuncuların** üstündeki isim ve can çubuğu artık gizleniyor; dirilince geri geliyor.\n- Hoş geldin mesajı yeni tuşlara göre güncellendi."
 }

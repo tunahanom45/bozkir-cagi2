@@ -1,5 +1,10 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.3.2
+- **Can çubukları düzeltildi:** can azaldıkça çubuk artık soldan sağa doğru boşalıyor (önce iki yandan birden kısalıyordu).
+- **Ölen canavarların ve oyuncuların** üstündeki isim ve can çubuğu artık gizleniyor; dirilince geri geliyor.
+- Hoş geldin mesajı yeni tuşlara göre güncellendi.
+
 ## v0.3.1 — Güncelleme düzeltmesi
 - **Yavaş internette güncelleme takılması düzeltildi.** Güncellemeler artık ikiye ayrıldı: küçük kod paketi (her sürümde, ~200 KB) ve 3D model paketi (sadece modeller değişince, bir kez iner).
 - Model paketi indirilirken ilerleme çubuğu görünür; süre sınırı yoktur, bağlantı koparsa 5 kez tekrar dener.
