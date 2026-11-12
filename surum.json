@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "pck": "oyun_0.5.0.pck",
-  "sha256": "0ab8fbc95075f4bd29900072a6cbfc32ee652ab5c5e3becdbe89cde56860d7b0",
+  "version": "0.5.1",
+  "pck": "oyun_0.5.1.pck",
+  "sha256": "00cb8acbc8c35d793925ec6d60b94b6a9c6bd4e1a6457cc33deea1e5eea1c936",
   "varlik": 1,
-  "notes": "- **Hesap sistemi:** giriş ekranında artık hesap adı + şifre. Bir hesapta **3 karaktere** kadar olabilir.\n- **3D karakter seçim ekranı:** karakterlerin ekipmanlarıyla kaidelerde yan yana durur. Tıkla → seçilir, öne çıkar ve döner. Altında ad, sınıf, seviye ve boy yazar.\n- **Yeni Karakter:** ad, sınıf ve boy seçerken boş kaidede seçtiğin sınıfın canlı 3D önizlemesi görünür.\n- **Karakteri Sil:** yanlışlıkla silinmesin diye karakterin adını yazarak onaylanır (sunucuda yedek dosya saklanır).\n- **Eski karakterler:** eski karakter adın ve şifrenle giriş yaparsan otomatik olarak hesaba dönüşür, karakterin içinde hazır gelir.\n- **ESC → Karakter Ekranına Dön** artık şifre sormadan doğrudan seçim ekranına götürür. **Hesaptan Çık** giriş ekranına döner."
+  "notes": "- \"3D modeller indiriliyor\" ekranı pencerenin tam ortasına alındı.\n- Güncelleme ekranı (\"Yeni sürüm bulundu\") yeni kurulumlarda tam ortada (bu ekran oyun dosyasının içinde olduğu için mevcut kurulumlarda değişmez; zaten 1-2 saniye görünür)."
 }

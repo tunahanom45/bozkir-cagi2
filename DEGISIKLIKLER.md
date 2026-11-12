@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.5.1
+- "3D modeller indiriliyor" ekranı pencerenin tam ortasına alındı.
+- Güncelleme ekranı ("Yeni sürüm bulundu") yeni kurulumlarda tam ortada (bu ekran oyun dosyasının içinde olduğu için mevcut kurulumlarda değişmez; zaten 1-2 saniye görünür).
+
 ## v0.5.0 — Hesaplar ve 3D karakter seçimi
 - **Hesap sistemi:** giriş ekranında artık hesap adı + şifre. Bir hesapta **3 karaktere** kadar olabilir.
 - **3D karakter seçim ekranı:** karakterlerin ekipmanlarıyla kaidelerde yan yana durur. Tıkla → seçilir, öne çıkar ve döner. Altında ad, sınıf, seviye ve boy yazar.
