@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "pck": "oyun_0.5.1.pck",
-  "sha256": "00cb8acbc8c35d793925ec6d60b94b6a9c6bd4e1a6457cc33deea1e5eea1c936",
+  "version": "0.5.2",
+  "pck": "oyun_0.5.2.pck",
+  "sha256": "3df0191fd5d7a5bfab6b0fa20e43d4af72b35a6401332a58a2a1a71a14b7eb8c",
   "varlik": 1,
-  "notes": "- \"3D modeller indiriliyor\" ekranı pencerenin tam ortasına alındı.\n- Güncelleme ekranı (\"Yeni sürüm bulundu\") yeni kurulumlarda tam ortada (bu ekran oyun dosyasının içinde olduğu için mevcut kurulumlarda değişmez; zaten 1-2 saniye görünür)."
+  "notes": "- **Engel etrafından dolaşma iyileştirildi:** karakter (yere tıklayarak yürürken de) kamp ateşi, ağaç ve kaya gibi engellere takılıp kalmıyor; engelin çevresinden hedefe yakın taraftan dolaşıyor."
 }

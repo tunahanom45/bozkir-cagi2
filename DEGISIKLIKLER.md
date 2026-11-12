@@ -1,5 +1,8 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.5.2
+- **Engel etrafından dolaşma iyileştirildi:** karakter (yere tıklayarak yürürken de) kamp ateşi, ağaç ve kaya gibi engellere takılıp kalmıyor; engelin çevresinden hedefe yakın taraftan dolaşıyor.
+
 ## v0.5.1
 - "3D modeller indiriliyor" ekranı pencerenin tam ortasına alındı.
 - Güncelleme ekranı ("Yeni sürüm bulundu") yeni kurulumlarda tam ortada (bu ekran oyun dosyasının içinde olduğu için mevcut kurulumlarda değişmez; zaten 1-2 saniye görünür).
