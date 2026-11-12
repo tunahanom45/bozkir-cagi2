@@ -1,5 +1,10 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.3.3
+- **Gerçek ok:** Okçunun attığı ok artık beyaz top değil, gerçek ok modeli. Uçuş yönüne döner, hafif yay çizer, arkasında iz bırakır; hasar ok hedefe varınca görünür.
+- **Çifte Ok** iki ok atar, **Zehirli Ok** yeşil parlar, **Ok Yağmuru**'nda gökten gerçek oklar düşer.
+- **Ağaçlar azaltıldı:** haritadaki ağaç sayısı yaklaşık %60 azaltıldı, açık alanlar ferahladı (oyun da biraz daha hızlı çalışır).
+
 ## v0.3.2
 - **Can çubukları düzeltildi:** can azaldıkça çubuk artık soldan sağa doğru boşalıyor (önce iki yandan birden kısalıyordu).
 - **Ölen canavarların ve oyuncuların** üstündeki isim ve can çubuğu artık gizleniyor; dirilince geri geliyor.

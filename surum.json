@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "pck": "oyun_0.3.2.pck",
-  "sha256": "2fe31aefaf7fd80fac329f514c481655045c22b249bb9fadeb225addf7374ac4",
+  "version": "0.3.3",
+  "pck": "oyun_0.3.3.pck",
+  "sha256": "ac342e29c06c0ce721a449cf0c430f3415f366aaf3860c9b55257de048852e25",
   "varlik": 1,
-  "notes": "- **Can çubukları düzeltildi:** can azaldıkça çubuk artık soldan sağa doğru boşalıyor (önce iki yandan birden kısalıyordu).\n- **Ölen canavarların ve oyuncuların** üstündeki isim ve can çubuğu artık gizleniyor; dirilince geri geliyor.\n- Hoş geldin mesajı yeni tuşlara göre güncellendi."
+  "notes": "- **Gerçek ok:** Okçunun attığı ok artık beyaz top değil, gerçek ok modeli. Uçuş yönüne döner, hafif yay çizer, arkasında iz bırakır; hasar ok hedefe varınca görünür.\n- **Çifte Ok** iki ok atar, **Zehirli Ok** yeşil parlar, **Ok Yağmuru**'nda gökten gerçek oklar düşer.\n- **Ağaçlar azaltıldı:** haritadaki ağaç sayısı yaklaşık %60 azaltıldı, açık alanlar ferahladı (oyun da biraz daha hızlı çalışır)."
 }
