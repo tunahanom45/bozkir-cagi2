@@ -1,5 +1,10 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.3.1 — Güncelleme düzeltmesi
+- **Yavaş internette güncelleme takılması düzeltildi.** Güncellemeler artık ikiye ayrıldı: küçük kod paketi (her sürümde, ~200 KB) ve 3D model paketi (sadece modeller değişince, bir kez iner).
+- Model paketi indirilirken ilerleme çubuğu görünür; süre sınırı yoktur, bağlantı koparsa 5 kez tekrar dener.
+- Oyun paketinden gereksiz ekran görüntüleri çıkarıldı (indirme ~5 MB küçüldü).
+
 ## v0.3.0 — Büyük güncelleme: yetenekler, sandıklar, yeni dünya
 - **Yeni dünya:** desenli yurtlar, pazar tezgâhı, kamp ateşleri, toprak yollar, ormanlar, nilüferli Kara Bataklık ve harabeleri, kayalarla çevrili Kara Han Mağarası, karlı dağlar, otlar ve çiçekler.
 - **Mini harita** (sağ üstte, kamerayla döner) ve **büyük harita (M)**: canavarlar kırmızı, oyuncular mavi, sandıklar sarı.
