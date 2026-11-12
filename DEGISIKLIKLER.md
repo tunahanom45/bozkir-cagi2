@@ -1,5 +1,15 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.4.0 — Beceri puanları ve çarpışma
+- **Beceri puanı sistemi:** her seviyede +2 beceri puanı. **K** tuşuyla Beceriler penceresini aç, puanları istediğin yeteneğe ver. Her puan yeteneğin etkisini %6 artırır, yetenek başına en fazla 15 puan.
+- **Seviye sınırı 30** (toplam 59 beceri puanı: hepsini doldurmak mümkün değil, seçim yapmalısın).
+- **Her sınıfa 5. yetenek ve hız yetenekleri:** Savaşçı — Hücum (hız), Okçu — Keskin Göz (saldırı hızı), Kam — Rüzgar Kanadı (hız). Yetenekler Sv 1 / 3 / 6 / 9 / 12'de açılır.
+- **Yetenek çubuğu:** 1-5 yetenekler, 6 can iksiri, 7 mana iksiri, R normal saldırı.
+- **Okçunun saldırı hızı arttı** (1,0 sn → 0,8 sn).
+- **Çarpışma:** karakter artık ağaçların, kayaların, yurtların, çadırların, tezgâhların ve eşyaların içinden geçmiyor; kenarından kayarak dolaşıyor.
+- **Orman seyreltildi:** Kemik Korusu'ndaki ağaç kümeleri tekli ağaçlarla değiştirildi.
+- Eski karakterlere seviyelerine göre beceri puanları geriye dönük verildi.
+
 ## v0.3.3
 - **Gerçek ok:** Okçunun attığı ok artık beyaz top değil, gerçek ok modeli. Uçuş yönüne döner, hafif yay çizer, arkasında iz bırakır; hasar ok hedefe varınca görünür.
 - **Çifte Ok** iki ok atar, **Zehirli Ok** yeşil parlar, **Ok Yağmuru**'nda gökten gerçek oklar düşer.

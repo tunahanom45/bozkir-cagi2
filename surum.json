@@ -1,7 +1,7 @@
 {
-  "version": "0.3.3",
-  "pck": "oyun_0.3.3.pck",
-  "sha256": "ac342e29c06c0ce721a449cf0c430f3415f366aaf3860c9b55257de048852e25",
+  "version": "0.4.0",
+  "pck": "oyun_0.4.0.pck",
+  "sha256": "677544ba8db7c8199aebc28c478d63ae49eb581cd67b08ffb9e9ad1b09806fa6",
   "varlik": 1,
-  "notes": "- **Gerçek ok:** Okçunun attığı ok artık beyaz top değil, gerçek ok modeli. Uçuş yönüne döner, hafif yay çizer, arkasında iz bırakır; hasar ok hedefe varınca görünür.\n- **Çifte Ok** iki ok atar, **Zehirli Ok** yeşil parlar, **Ok Yağmuru**'nda gökten gerçek oklar düşer.\n- **Ağaçlar azaltıldı:** haritadaki ağaç sayısı yaklaşık %60 azaltıldı, açık alanlar ferahladı (oyun da biraz daha hızlı çalışır)."
+  "notes": "- **Beceri puanı sistemi:** her seviyede +2 beceri puanı. **K** tuşuyla Beceriler penceresini aç, puanları istediğin yeteneğe ver. Her puan yeteneğin etkisini %6 artırır, yetenek başına en fazla 15 puan.\n- **Seviye sınırı 30** (toplam 59 beceri puanı: hepsini doldurmak mümkün değil, seçim yapmalısın).\n- **Her sınıfa 5. yetenek ve hız yetenekleri:** Savaşçı — Hücum (hız), Okçu — Keskin Göz (saldırı hızı), Kam — Rüzgar Kanadı (hız). Yetenekler Sv 1 / 3 / 6 / 9 / 12'de açılır.\n- **Yetenek çubuğu:** 1-5 yetenekler, 6 can iksiri, 7 mana iksiri, R normal saldırı.\n- **Okçunun saldırı hızı arttı** (1,0 sn → 0,8 sn).\n- **Çarpışma:** karakter artık ağaçların, kayaların, yurtların, çadırların, tezgâhların ve eşyaların içinden geçmiyor; kenarından kayarak dolaşıyor.\n- **Orman seyreltildi:** Kemik Korusu'ndaki ağaç kümeleri tekli ağaçlarla değiştirildi.\n- Eski karakterlere seviyelerine göre beceri puanları geriye dönük verildi."
 }
