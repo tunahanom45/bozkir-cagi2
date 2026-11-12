@@ -1,5 +1,13 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.5.0 — Hesaplar ve 3D karakter seçimi
+- **Hesap sistemi:** giriş ekranında artık hesap adı + şifre. Bir hesapta **3 karaktere** kadar olabilir.
+- **3D karakter seçim ekranı:** karakterlerin ekipmanlarıyla kaidelerde yan yana durur. Tıkla → seçilir, öne çıkar ve döner. Altında ad, sınıf, seviye ve boy yazar.
+- **Yeni Karakter:** ad, sınıf ve boy seçerken boş kaidede seçtiğin sınıfın canlı 3D önizlemesi görünür.
+- **Karakteri Sil:** yanlışlıkla silinmesin diye karakterin adını yazarak onaylanır (sunucuda yedek dosya saklanır).
+- **Eski karakterler:** eski karakter adın ve şifrenle giriş yaparsan otomatik olarak hesaba dönüşür, karakterin içinde hazır gelir.
+- **ESC → Karakter Ekranına Dön** artık şifre sormadan doğrudan seçim ekranına götürür. **Hesaptan Çık** giriş ekranına döner.
+
 ## v0.4.1 — ESC menüsü
 - **ESC menüsü:** Oyuna Dön, Ayarlar, Karakter Ekranına Dön, Oyundan Çık.
 - **Ayarlar:** grafik kalitesi, tam ekran, kamera (fare) hassasiyeti, tuş yardımını göster/gizle. Ayarlar kaydedilir.

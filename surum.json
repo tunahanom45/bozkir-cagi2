@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "pck": "oyun_0.4.1.pck",
-  "sha256": "2db62e0e59ddbb4153daef860cbd4ccdd61567360f12f9ca280e9470177a07e5",
+  "version": "0.5.0",
+  "pck": "oyun_0.5.0.pck",
+  "sha256": "0ab8fbc95075f4bd29900072a6cbfc32ee652ab5c5e3becdbe89cde56860d7b0",
   "varlik": 1,
-  "notes": "- **ESC menüsü:** Oyuna Dön, Ayarlar, Karakter Ekranına Dön, Oyundan Çık.\n- **Ayarlar:** grafik kalitesi, tam ekran, kamera (fare) hassasiyeti, tuş yardımını göster/gizle. Ayarlar kaydedilir.\n- **Karakter Ekranına Dön** ve **Oyundan Çık** karakterini kaydedip çıkar; tekrar girince kaldığın yerden devam edersin.\n- ESC önce açık pencereyi (çanta, beceriler, sandık, harita…) kapatır; açık pencere yoksa menüyü açar. Menü açıkken karakter yürümez."
+  "notes": "- **Hesap sistemi:** giriş ekranında artık hesap adı + şifre. Bir hesapta **3 karaktere** kadar olabilir.\n- **3D karakter seçim ekranı:** karakterlerin ekipmanlarıyla kaidelerde yan yana durur. Tıkla → seçilir, öne çıkar ve döner. Altında ad, sınıf, seviye ve boy yazar.\n- **Yeni Karakter:** ad, sınıf ve boy seçerken boş kaidede seçtiğin sınıfın canlı 3D önizlemesi görünür.\n- **Karakteri Sil:** yanlışlıkla silinmesin diye karakterin adını yazarak onaylanır (sunucuda yedek dosya saklanır).\n- **Eski karakterler:** eski karakter adın ve şifrenle giriş yaparsan otomatik olarak hesaba dönüşür, karakterin içinde hazır gelir.\n- **ESC → Karakter Ekranına Dön** artık şifre sormadan doğrudan seçim ekranına götürür. **Hesaptan Çık** giriş ekranına döner."
 }
