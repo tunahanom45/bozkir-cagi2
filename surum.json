@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "pck": "oyun_0.8.0.pck",
-  "sha256": "5b809af494b4efead01a341f18c6f4edfbe032fb210ff8abff1efe18e11b6a8d",
-  "varlik": 3,
+  "version": "0.9.0",
+  "pck": "oyun_0.9.0.pck",
+  "sha256": "74eb5d1671b4941668167855afd26da6ccf07c5da425898d051a470d53fbc147",
+  "varlik": 4,
   "exe": {
     "Windows": {
       "surum": 2,
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Büyü efektleri yenilendi:** Ruh Ateşi alevli mermi ve patlama, Buz Mızrağı buz kristali ve don sisi, Yıldırım gökten düşen zikzak şimşekler, Zehirli Ok yeşil iz ve zehir bulutu, Şifa yükselen ışık sütunu. Girdap dönen kılıç izleri, Ağır Darbe yerde çatlak ve toz bırakır. Güçlendirmelerde (Kalkan Duvarı, Savaş Narası vb.) süre boyunca karakterin etrafında parçacıklar döner. Vuruşlarda isabet kıvılcımları çıkar.\n- **Yeni ikonlar:** Eşya ikonları metal parlaklığı ve kenar ışığıyla daha gerçekçi; yetenek ikonları boyanmış görünümlü, parlayan ve bronz çerçeveli.\n- **Yeni skill bar:** Bronz çerçeveli yuvalar, saat yönünde dolan bekleme süresi ve kalan saniye.\n- **Eşya bilgisi:** Fareyle üzerine gelince açılan küçük kutu kaldırıldı; bilgi sadece sol tıkla açılır. Panelde artık eşyanın açıklaması, kademesi, statların nereden geldiği (temel / yükseltme / nadirlik / ek), giyili eşyayla karşılaştırma (▲ yeşil daha iyi, ▼ kırmızı daha kötü), silahın saldırı hızı ve menzili, Kor Ocağı'nda bir sonraki yükseltmenin şansı ve fiyatı, tüccar fiyatı görünür.\n- **Karakterler:** Daha mat kumaş/deri, parlak metal silah ve zırh, kenar ışığı.\n- **Sohbet penceresi:** Skill bar artık sohbetin üstüne binmez. Sohbet başlığındaki ▲ / ▼ ile büyütülür-küçültülür, başlıktan tutup yukarı-aşağı sürükleyerek boyu ayarlanır, — ile kapatılıp açılır. Ayar kaydedilir.\n- İlk açılışta yeni ikonlar için model paketi bir kez yeniden iner."
+  "notes": "- **Kam artık Büyücü:** En yüksek hasarı veren sınıf. Saldırısı ve büyü güçleri arttı (Ruh Ateşi, Buz Mızrağı, Gök Gürültüsü). Kendini iyileştiren Şifa yeteneği kaldırıldı, yerine **Alev Halkası** geldi (etrafındaki tüm düşmanları yakar). Şifa'ya verdiğin beceri puanları geri iade edilir, K ile yeniden dağıtabilirsin.\n- **Yeni sınıf: Şifacı** (karakter oluştururken seçilir). Gücünün yaklaşık %70'i iyileştirme, hasarı büyücünün yarısı kadar:\n  - Işık Oku (Sv 1): hedefe ışık oku.\n  - Şifa Işığı (Sv 2): yakındaki en yaralı dostu (ya da kendini) iyileştirir.\n  - Toplu Şifa (Sv 6): etrafındaki tüm dostları iyileştirir.\n  - Yenilenme (Sv 9): etrafındaki dostlar 8 saniye boyunca her saniye can yeniler.\n  - Koruyucu Ruh (Sv 12): etrafındaki dostların savunması artar.\n  - Kendine özel eşyalar: Ak Değnek, Umay Değneği, Umay Tılsımı, Ak Takke ve daha fazlası (Tüccar'da ve canavarlardan).\n  - Beyaz-altın cübbesiyle büyücüden ayrı görünür.\n- Denge (hesap + bot denemesi, Sv 10 ve üstü): Büyücü %100, Okçu ~%70-80, Savaşçı ~%50-60 hasar (savaşçı en dayanıklı), Şifacı ~%50 hasar + güçlü iyileştirme.\n- İlk açılışta yeni ikonlar için model paketi bir kez yeniden iner."
 }

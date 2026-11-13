@@ -1,5 +1,18 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.9.0 — Büyücü ve yeni sınıf Şifacı
+- **Kam artık Büyücü:** En yüksek hasarı veren sınıf. Saldırısı ve büyü güçleri arttı (Ruh Ateşi, Buz Mızrağı, Gök Gürültüsü). Kendini iyileştiren Şifa yeteneği kaldırıldı, yerine **Alev Halkası** geldi (etrafındaki tüm düşmanları yakar). Şifa'ya verdiğin beceri puanları geri iade edilir, K ile yeniden dağıtabilirsin.
+- **Yeni sınıf: Şifacı** (karakter oluştururken seçilir). Gücünün yaklaşık %70'i iyileştirme, hasarı büyücünün yarısı kadar:
+  - Işık Oku (Sv 1): hedefe ışık oku.
+  - Şifa Işığı (Sv 2): yakındaki en yaralı dostu (ya da kendini) iyileştirir.
+  - Toplu Şifa (Sv 6): etrafındaki tüm dostları iyileştirir.
+  - Yenilenme (Sv 9): etrafındaki dostlar 8 saniye boyunca her saniye can yeniler.
+  - Koruyucu Ruh (Sv 12): etrafındaki dostların savunması artar.
+  - Kendine özel eşyalar: Ak Değnek, Umay Değneği, Umay Tılsımı, Ak Takke ve daha fazlası (Tüccar'da ve canavarlardan).
+  - Beyaz-altın cübbesiyle büyücüden ayrı görünür.
+- Denge (hesap + bot denemesi, Sv 10 ve üstü): Büyücü %100, Okçu ~%70-80, Savaşçı ~%50-60 hasar (savaşçı en dayanıklı), Şifacı ~%50 hasar + güçlü iyileştirme.
+- İlk açılışta yeni ikonlar için model paketi bir kez yeniden iner.
+
 ## v0.8.0 — Görsel yenilik: büyüler, ikonlar, eşya bilgisi
 - **Büyü efektleri yenilendi:** Ruh Ateşi alevli mermi ve patlama, Buz Mızrağı buz kristali ve don sisi, Yıldırım gökten düşen zikzak şimşekler, Zehirli Ok yeşil iz ve zehir bulutu, Şifa yükselen ışık sütunu. Girdap dönen kılıç izleri, Ağır Darbe yerde çatlak ve toz bırakır. Güçlendirmelerde (Kalkan Duvarı, Savaş Narası vb.) süre boyunca karakterin etrafında parçacıklar döner. Vuruşlarda isabet kıvılcımları çıkar.
 - **Yeni ikonlar:** Eşya ikonları metal parlaklığı ve kenar ışığıyla daha gerçekçi; yetenek ikonları boyanmış görünümlü, parlayan ve bronz çerçeveli.
