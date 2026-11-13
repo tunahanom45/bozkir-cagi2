@@ -1,5 +1,14 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.8.0 — Görsel yenilik: büyüler, ikonlar, eşya bilgisi
+- **Büyü efektleri yenilendi:** Ruh Ateşi alevli mermi ve patlama, Buz Mızrağı buz kristali ve don sisi, Yıldırım gökten düşen zikzak şimşekler, Zehirli Ok yeşil iz ve zehir bulutu, Şifa yükselen ışık sütunu. Girdap dönen kılıç izleri, Ağır Darbe yerde çatlak ve toz bırakır. Güçlendirmelerde (Kalkan Duvarı, Savaş Narası vb.) süre boyunca karakterin etrafında parçacıklar döner. Vuruşlarda isabet kıvılcımları çıkar.
+- **Yeni ikonlar:** Eşya ikonları metal parlaklığı ve kenar ışığıyla daha gerçekçi; yetenek ikonları boyanmış görünümlü, parlayan ve bronz çerçeveli.
+- **Yeni skill bar:** Bronz çerçeveli yuvalar, saat yönünde dolan bekleme süresi ve kalan saniye.
+- **Eşya bilgisi:** Fareyle üzerine gelince açılan küçük kutu kaldırıldı; bilgi sadece sol tıkla açılır. Panelde artık eşyanın açıklaması, kademesi, statların nereden geldiği (temel / yükseltme / nadirlik / ek), giyili eşyayla karşılaştırma (▲ yeşil daha iyi, ▼ kırmızı daha kötü), silahın saldırı hızı ve menzili, Kor Ocağı'nda bir sonraki yükseltmenin şansı ve fiyatı, tüccar fiyatı görünür.
+- **Karakterler:** Daha mat kumaş/deri, parlak metal silah ve zırh, kenar ışığı.
+- **Sohbet penceresi:** Skill bar artık sohbetin üstüne binmez. Sohbet başlığındaki ▲ / ▼ ile büyütülür-küçültülür, başlıktan tutup yukarı-aşağı sürükleyerek boyu ayarlanır, — ile kapatılıp açılır. Ayar kaydedilir.
+- İlk açılışta yeni ikonlar için model paketi bir kez yeniden iner.
+
 ## v0.7.0 — Gerçekçi dünya ve sesler
 - **Gerçekçi zemin:** Çimen, kuru ot, orman toprağı, çamur, kaya ve toprak yol gerçek dokularla, daha net görünür.
 - **Yeni ağaçlar:** Gerçek kabuk ve yaprak dokulu çam, köknar, yapraklı ve kuru ağaçlar; çalılar, eğrelti otları, devrik kütükler ve gerçekçi kayalar.
