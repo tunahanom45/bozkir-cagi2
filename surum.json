@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "pck": "oyun_0.9.0.pck",
-  "sha256": "74eb5d1671b4941668167855afd26da6ccf07c5da425898d051a470d53fbc147",
+  "version": "0.9.1",
+  "pck": "oyun_0.9.1.pck",
+  "sha256": "7df2d78dd4133ecdd545363e5e043a1529678776d4961d698f5a17e9fce98a52",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Kam artık Büyücü:** En yüksek hasarı veren sınıf. Saldırısı ve büyü güçleri arttı (Ruh Ateşi, Buz Mızrağı, Gök Gürültüsü). Kendini iyileştiren Şifa yeteneği kaldırıldı, yerine **Alev Halkası** geldi (etrafındaki tüm düşmanları yakar). Şifa'ya verdiğin beceri puanları geri iade edilir, K ile yeniden dağıtabilirsin.\n- **Yeni sınıf: Şifacı** (karakter oluştururken seçilir). Gücünün yaklaşık %70'i iyileştirme, hasarı büyücünün yarısı kadar:\n  - Işık Oku (Sv 1): hedefe ışık oku.\n  - Şifa Işığı (Sv 2): yakındaki en yaralı dostu (ya da kendini) iyileştirir.\n  - Toplu Şifa (Sv 6): etrafındaki tüm dostları iyileştirir.\n  - Yenilenme (Sv 9): etrafındaki dostlar 8 saniye boyunca her saniye can yeniler.\n  - Koruyucu Ruh (Sv 12): etrafındaki dostların savunması artar.\n  - Kendine özel eşyalar: Ak Değnek, Umay Değneği, Umay Tılsımı, Ak Takke ve daha fazlası (Tüccar'da ve canavarlardan).\n  - Beyaz-altın cübbesiyle büyücüden ayrı görünür.\n- Denge (hesap + bot denemesi, Sv 10 ve üstü): Büyücü %100, Okçu ~%70-80, Savaşçı ~%50-60 hasar (savaşçı en dayanıklı), Şifacı ~%50 hasar + güçlü iyileştirme.\n- İlk açılışta yeni ikonlar için model paketi bir kez yeniden iner."
+  "notes": "- İkonlar, sesler ve arayüz görselleri artık küçük güncelleme paketiyle gelir. 77 MB'lık model paketi yalnızca 3D modeller değiştiğinde yeniden iner; ikon veya ses değişikliği için tekrar indirmen gerekmez.\n- \"3D modeller indiriliyor\" ekranı pencerenin tam ortasında görünür."
 }

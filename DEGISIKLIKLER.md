@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.9.1 — Daha küçük güncellemeler
+- İkonlar, sesler ve arayüz görselleri artık küçük güncelleme paketiyle gelir. 77 MB'lık model paketi yalnızca 3D modeller değiştiğinde yeniden iner; ikon veya ses değişikliği için tekrar indirmen gerekmez.
+- "3D modeller indiriliyor" ekranı pencerenin tam ortasında görünür.
+
 ## v0.9.0 — Büyücü ve yeni sınıf Şifacı
 - **Kam artık Büyücü:** En yüksek hasarı veren sınıf. Saldırısı ve büyü güçleri arttı (Ruh Ateşi, Buz Mızrağı, Gök Gürültüsü). Kendini iyileştiren Şifa yeteneği kaldırıldı, yerine **Alev Halkası** geldi (etrafındaki tüm düşmanları yakar). Şifa'ya verdiğin beceri puanları geri iade edilir, K ile yeniden dağıtabilirsin.
 - **Yeni sınıf: Şifacı** (karakter oluştururken seçilir). Gücünün yaklaşık %70'i iyileştirme, hasarı büyücünün yarısı kadar:
