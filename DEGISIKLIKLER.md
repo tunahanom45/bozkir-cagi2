@@ -1,5 +1,18 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.13.0 — Işınlanma portalı, yeni bölge görünümleri
+- **Işınlanma portalı:** Köyde, Otacı Ana'nın karşısında taş bir kemer var. Yanına gidip **E**'ye bas, **Yolculuk** listesinden bölge seç. Seviyen yetmeyen bölgeler soluk görünür ("Sv 15 gerekli" gibi). İki ışınlanma arası 5 saniye bekleme var.
+- **Dönüş taşları:** Her bölgenin girişinde mavi rünlü bir taş var. Buradan **Köye Dön** ya da başka bir bölgeye geç. Portal ve taşlar haritada mavi elmasla gösterilir.
+- **Bölgeler yenilendi:**
+  - **Yıkık Kurgan:** oyulmuş balbal taşları, taş halkalı höyükler, taş bloklu yıkık duvarlar.
+  - **Kızıl Kanyon:** kızıl katmanlı yüksek kayalıklar.
+  - **Ayaz Tepeleri:** kar artık göz yormuyor (mavi-gri ton, buz ve toprak lekeleri). Çamlar daha koyu yeşil.
+  - **Erlik Kapısı:** yanmış ağaçlar, parlak kara obsidyen kristaller, ince lav çatlakları.
+  - **Kara Han:** kayalıklarla çevrili mağara ağzı, kemikler ve kafatasları.
+- **Canavarların kendi görünümleri var:** Kara Han, Gölge Avcı, Kızıl Mızrakçı, Ayaz Kamı ve Erlik Beyi'nin kendine özgü zırh, boynuz ve süsleri var. 2. bölüm canavarları daha iri.
+- **Onay soruları:** Satın alma, satma ve Kor Ocağı'nda yükseltme öncesinde **Evet / Hayır** sorulur. Yükseltmede başarısızlık riski yazar: +4 ve üstünde başarısız olursa eşya bir kademe düşer.
+- **Karşılaştırma:** Çantadaki bir eşyaya tıklayınca, aynı yerde kuşandığın eşya yanda açılır. İkisini yan yana karşılaştırabilirsin.
+
 ## v0.12.1 — Küçük düzeltmeler
 - NPC (Tüccar, Otacı Ana, Kor Ocağı) açıkken eşyaya tıklayınca bilgi penceresi artık NPC listesinin üstüne binmez; envanterin karakter bölümünün üstüne açılır. NPC listesi ve çanta görünür kalır.
 - **ESC** ile hedef seçimi kaldırılır (üstteki hedef çubuğu kapanır). Açık pencere ve hedef yoksa ESC menüsü açılır.
