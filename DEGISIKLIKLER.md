@@ -1,5 +1,16 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.12.0 — 2. Bölüm: Erlik'in Gölgesi
+- **Görevler Kara Han'dan sonra devam ediyor!** Kara Han'ı yendikten sonra Bilge Ata yeni bir zincir verir (Sv 10 → 28):
+  - **Yıkık Kurgan (doğu, Sv 10-14):** mezar höyükleri ve balbal taşları arasında **Gölge Avcılar**. Görevler: Yıkık Kurgan, Gölge Bezi.
+  - **Kızıl Kanyon (güneydoğu, Sv 15-20):** kızıl kaya sütunları arasında **Kızıl Mızrakçılar**. Görevler: Kızıl Kanyon, Kızıl Cevher.
+  - **Ayaz Tepeleri (güneybatı, Sv 21-26):** karlı çamlar ve buz kristalleri, uzaktan buz atan **Ayaz Kamları**. Görevler: Ayaz Tepeleri, Ayaz Kristali.
+  - **Erlik Kapısı (kuzeybatı, BOSS Sv 28):** kızıl ışıklı kara kapının önünde **Erlik Beyi**. Son görevin ödülü: Gök Tengri silahı, 10 Kor Taşı, 5000 altın.
+  - Her bölgenin günlük devriyesi var (bölgenin görevleri bitince kapanır). Yeni malzemeler: Gölge Bezi, Kızıl Cevher, Ayaz Kristali (tüccara iyi fiyata satılır).
+- **Yeni NPC: Otacı Ana** (köyde, kamp ateşinin batısında, yeşil kazanın başında). İksirler artık ondan alınır: Can ve Ruh İksiri ile yeni **Büyük Can İksiri** (320 can) ve **Büyük Ruh İksiri** (240 mana). **x1 / x10** ile alınır. Çantada büyük iksir varsa 6 / 7 tuşları önce onu kullanır.
+- **Kor Ocağı daha pahalı:** her yükseltme denemesi 2,5 kat altın ister (+0→+1: 50, +7→+8: 3200 altın).
+- **Canavarlar daha dayanıklı:** canları kademeli arttı (zayıflar %20, güçlüler %70'e kadar). Canavarlardan düşen iksir yarıya indi.
+
 ## v0.11.2 — Pencere düzeni
 - Tüccar ya da Kor Ocağı açılınca envanter yerinden kaymaz; NPC penceresi envanterin hemen soluna açılır.
 - Tüccar listesi uzadığı için kaydırılabilir oldu, artık pencerenin dışına taşmaz.
