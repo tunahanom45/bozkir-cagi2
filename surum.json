@@ -1,7 +1,7 @@
 {
-  "version": "0.13.0",
-  "pck": "oyun_0.13.0.pck",
-  "sha256": "17d6d8ebee662acfb07b3267024d8302d7894e7d5dd6737a1a3067facf6399a5",
+  "version": "0.13.1",
+  "pck": "oyun_0.13.1.pck",
+  "sha256": "b9afdd6442b6bc414347cfaf3c707ca2a27c4a1f2ec3be544b51a1c05cd21472",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Işınlanma portalı:** Köyde, Otacı Ana'nın karşısında taş bir kemer var. Yanına gidip **E**'ye bas, **Yolculuk** listesinden bölge seç. Seviyen yetmeyen bölgeler soluk görünür (\"Sv 15 gerekli\" gibi). İki ışınlanma arası 5 saniye bekleme var.\n- **Dönüş taşları:** Her bölgenin girişinde mavi rünlü bir taş var. Buradan **Köye Dön** ya da başka bir bölgeye geç. Portal ve taşlar haritada mavi elmasla gösterilir.\n- **Bölgeler yenilendi:**\n  - **Yıkık Kurgan:** oyulmuş balbal taşları, taş halkalı höyükler, taş bloklu yıkık duvarlar.\n  - **Kızıl Kanyon:** kızıl katmanlı yüksek kayalıklar.\n  - **Ayaz Tepeleri:** kar artık göz yormuyor (mavi-gri ton, buz ve toprak lekeleri). Çamlar daha koyu yeşil.\n  - **Erlik Kapısı:** yanmış ağaçlar, parlak kara obsidyen kristaller, ince lav çatlakları.\n  - **Kara Han:** kayalıklarla çevrili mağara ağzı, kemikler ve kafatasları.\n- **Canavarların kendi görünümleri var:** Kara Han, Gölge Avcı, Kızıl Mızrakçı, Ayaz Kamı ve Erlik Beyi'nin kendine özgü zırh, boynuz ve süsleri var. 2. bölüm canavarları daha iri.\n- **Onay soruları:** Satın alma, satma ve Kor Ocağı'nda yükseltme öncesinde **Evet / Hayır** sorulur. Yükseltmede başarısızlık riski yazar: +4 ve üstünde başarısız olursa eşya bir kademe düşer.\n- **Karşılaştırma:** Çantadaki bir eşyaya tıklayınca, aynı yerde kuşandığın eşya yanda açılır. İkisini yan yana karşılaştırabilirsin."
+  "notes": "- Haritadaki bazı kayalarda görülen delikler/kopuk parçalar düzeltildi; bozuk büyük kaya modeli sağlam bir kaya ile değiştirildi.\n- Dalı üstünde havada duruyormuş gibi görünen devrik kütükler yere tam yatan kütüklerle değiştirildi."
 }

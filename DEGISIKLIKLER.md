@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.13.1 — Kaya ve kütük düzeltmesi
+- Haritadaki bazı kayalarda görülen delikler/kopuk parçalar düzeltildi; bozuk büyük kaya modeli sağlam bir kaya ile değiştirildi.
+- Dalı üstünde havada duruyormuş gibi görünen devrik kütükler yere tam yatan kütüklerle değiştirildi.
+
 ## v0.13.0 — Işınlanma portalı, yeni bölge görünümleri
 - **Işınlanma portalı:** Köyde, Otacı Ana'nın karşısında taş bir kemer var. Yanına gidip **E**'ye bas, **Yolculuk** listesinden bölge seç. Seviyen yetmeyen bölgeler soluk görünür ("Sv 15 gerekli" gibi). İki ışınlanma arası 5 saniye bekleme var.
 - **Dönüş taşları:** Her bölgenin girişinde mavi rünlü bir taş var. Buradan **Köye Dön** ya da başka bir bölgeye geç. Portal ve taşlar haritada mavi elmasla gösterilir.
