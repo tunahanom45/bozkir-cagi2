@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.12.1 — Küçük düzeltmeler
+- NPC (Tüccar, Otacı Ana, Kor Ocağı) açıkken eşyaya tıklayınca bilgi penceresi artık NPC listesinin üstüne binmez; envanterin karakter bölümünün üstüne açılır. NPC listesi ve çanta görünür kalır.
+- **ESC** ile hedef seçimi kaldırılır (üstteki hedef çubuğu kapanır). Açık pencere ve hedef yoksa ESC menüsü açılır.
+
 ## v0.12.0 — 2. Bölüm: Erlik'in Gölgesi
 - **Görevler Kara Han'dan sonra devam ediyor!** Kara Han'ı yendikten sonra Bilge Ata yeni bir zincir verir (Sv 10 → 28):
   - **Yıkık Kurgan (doğu, Sv 10-14):** mezar höyükleri ve balbal taşları arasında **Gölge Avcılar**. Görevler: Yıkık Kurgan, Gölge Bezi.

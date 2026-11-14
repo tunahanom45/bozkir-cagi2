@@ -1,7 +1,7 @@
 {
-  "version": "0.12.0",
-  "pck": "oyun_0.12.0.pck",
-  "sha256": "636851545e74925ed946841da947801e8d02a35e998e50b3c184cb1fd1f365e1",
+  "version": "0.12.1",
+  "pck": "oyun_0.12.1.pck",
+  "sha256": "09f9ef4e7e33a025e15dbfa3d81837675574788788af9cd1b5c9d461cf71b8f0",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Görevler Kara Han'dan sonra devam ediyor!** Kara Han'ı yendikten sonra Bilge Ata yeni bir zincir verir (Sv 10 → 28):\n  - **Yıkık Kurgan (doğu, Sv 10-14):** mezar höyükleri ve balbal taşları arasında **Gölge Avcılar**. Görevler: Yıkık Kurgan, Gölge Bezi.\n  - **Kızıl Kanyon (güneydoğu, Sv 15-20):** kızıl kaya sütunları arasında **Kızıl Mızrakçılar**. Görevler: Kızıl Kanyon, Kızıl Cevher.\n  - **Ayaz Tepeleri (güneybatı, Sv 21-26):** karlı çamlar ve buz kristalleri, uzaktan buz atan **Ayaz Kamları**. Görevler: Ayaz Tepeleri, Ayaz Kristali.\n  - **Erlik Kapısı (kuzeybatı, BOSS Sv 28):** kızıl ışıklı kara kapının önünde **Erlik Beyi**. Son görevin ödülü: Gök Tengri silahı, 10 Kor Taşı, 5000 altın.\n  - Her bölgenin günlük devriyesi var (bölgenin görevleri bitince kapanır). Yeni malzemeler: Gölge Bezi, Kızıl Cevher, Ayaz Kristali (tüccara iyi fiyata satılır).\n- **Yeni NPC: Otacı Ana** (köyde, kamp ateşinin batısında, yeşil kazanın başında). İksirler artık ondan alınır: Can ve Ruh İksiri ile yeni **Büyük Can İksiri** (320 can) ve **Büyük Ruh İksiri** (240 mana). **x1 / x10** ile alınır. Çantada büyük iksir varsa 6 / 7 tuşları önce onu kullanır.\n- **Kor Ocağı daha pahalı:** her yükseltme denemesi 2,5 kat altın ister (+0→+1: 50, +7→+8: 3200 altın).\n- **Canavarlar daha dayanıklı:** canları kademeli arttı (zayıflar %20, güçlüler %70'e kadar). Canavarlardan düşen iksir yarıya indi."
+  "notes": "- NPC (Tüccar, Otacı Ana, Kor Ocağı) açıkken eşyaya tıklayınca bilgi penceresi artık NPC listesinin üstüne binmez; envanterin karakter bölümünün üstüne açılır. NPC listesi ve çanta görünür kalır.\n- **ESC** ile hedef seçimi kaldırılır (üstteki hedef çubuğu kapanır). Açık pencere ve hedef yoksa ESC menüsü açılır."
 }
