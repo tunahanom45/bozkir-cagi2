@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.11.1 — Okçu sadaksız ok atamaz
+- Okçu artık ok atabilmek için yan el yuvasında **sadak** taşımalı. Sadak yoksa normal saldırı ve ok yetenekleri (Çifte Ok, Zehirli Ok, Ok Yağmuru) çalışmaz, "Okun yok!" uyarısı çıkar. Hız ve Keskin Göz güçlendirmeleri sadaksız da kullanılabilir.
+- Yeni okçular Deri Sadak takılı başlar. Hiç sadağı olmayan eski okçulara girişte bir kez Deri Sadak verilir.
+
 ## v0.11.0 — Sadak, tek vuruş, devriye düzeni
 - **Okçuda hançer yerine sadak:** Yan el eşyaları artık ok kılıfı: **Deri Sadak** ve **Bozkır Sadağı**. Elde bıçak görünmez; sadak sırtta, okları omzunun üstünden görünür. Eski hançerlerin sadağa dönüşür, statları aynı kalır.
 - **R tuşu:** Her basışta **tek bir** normal saldırı yapar (hedef uzaktaysa yaklaşıp bir kez vurur). Yetenek kullanmak da artık otomatik saldırıyı başlatmaz.

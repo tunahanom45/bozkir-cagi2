@@ -1,7 +1,7 @@
 {
-  "version": "0.11.0",
-  "pck": "oyun_0.11.0.pck",
-  "sha256": "f5fb8d9543904a3d115471775862508f18e5255f83de7b41f31b6409ca20d09a",
+  "version": "0.11.1",
+  "pck": "oyun_0.11.1.pck",
+  "sha256": "7b9a2ca2a445d3d6b086dad7aaa956cb691e079c402e3ff89090325dae8af5f8",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Okçuda hançer yerine sadak:** Yan el eşyaları artık ok kılıfı: **Deri Sadak** ve **Bozkır Sadağı**. Elde bıçak görünmez; sadak sırtta, okları omzunun üstünden görünür. Eski hançerlerin sadağa dönüşür, statları aynı kalır.\n- **R tuşu:** Her basışta **tek bir** normal saldırı yapar (hedef uzaktaysa yaklaşıp bir kez vurur). Yetenek kullanmak da artık otomatik saldırıyı başlatmaz.\n- **NPC'ler:** Tüccar, Demirci ve Bilge Ata ancak **yanlarına gidince** (3,5 m) E ile açılır. NPC'ye tıklarsan yanına yürürsün.\n- **Devriye görevleri bölgeye bağlandı:** Ova Devriyesi İlk Av'dan sonra açılır, **Ovayı Temizle** bitince kalıcı olarak kapanır. Koru Devriyesi Kemik Muskalar'la, Bataklık Devriyesi Ruh Tozu ile kapanır. Açıkken günde en fazla 3 kez yapılabilir. Kara Han'ın tekrar görevi kaldırıldı."
+  "notes": "- Okçu artık ok atabilmek için yan el yuvasında **sadak** taşımalı. Sadak yoksa normal saldırı ve ok yetenekleri (Çifte Ok, Zehirli Ok, Ok Yağmuru) çalışmaz, \"Okun yok!\" uyarısı çıkar. Hız ve Keskin Göz güçlendirmeleri sadaksız da kullanılabilir.\n- Yeni okçular Deri Sadak takılı başlar. Hiç sadağı olmayan eski okçulara girişte bir kez Deri Sadak verilir."
 }
