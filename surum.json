@@ -1,7 +1,7 @@
 {
-  "version": "0.11.1",
-  "pck": "oyun_0.11.1.pck",
-  "sha256": "7b9a2ca2a445d3d6b086dad7aaa956cb691e079c402e3ff89090325dae8af5f8",
+  "version": "0.11.2",
+  "pck": "oyun_0.11.2.pck",
+  "sha256": "97f4a1f3227c122e2bad824d4dba0a6a9d9d628391346836fde4692e70796afa",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- Okçu artık ok atabilmek için yan el yuvasında **sadak** taşımalı. Sadak yoksa normal saldırı ve ok yetenekleri (Çifte Ok, Zehirli Ok, Ok Yağmuru) çalışmaz, \"Okun yok!\" uyarısı çıkar. Hız ve Keskin Göz güçlendirmeleri sadaksız da kullanılabilir.\n- Yeni okçular Deri Sadak takılı başlar. Hiç sadağı olmayan eski okçulara girişte bir kez Deri Sadak verilir."
+  "notes": "- Tüccar ya da Kor Ocağı açılınca envanter yerinden kaymaz; NPC penceresi envanterin hemen soluna açılır.\n- Tüccar listesi uzadığı için kaydırılabilir oldu, artık pencerenin dışına taşmaz.\n- Kor Ocağı açıkken eşyaya sol tıklamak artık yükseltme yapmaz; sadece bilgi penceresi açılır. Yükseltme yalnızca **\"Kor Ocağı'nda yükselt\"** düğmesiyle yapılır.\n- NPC açıkken eşya bilgisi NPC penceresinin üstünde açılır, çanta görünür kalır.\n- Haritadaki Bilge Ata işareti görev durumuna göre değişir: **!** alınabilir görev, **?** teslim edilecek görev; görev kalmadıysa sadece küçük bir nokta."
 }

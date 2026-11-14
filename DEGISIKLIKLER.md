@@ -1,5 +1,12 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.11.2 — Pencere düzeni
+- Tüccar ya da Kor Ocağı açılınca envanter yerinden kaymaz; NPC penceresi envanterin hemen soluna açılır.
+- Tüccar listesi uzadığı için kaydırılabilir oldu, artık pencerenin dışına taşmaz.
+- Kor Ocağı açıkken eşyaya sol tıklamak artık yükseltme yapmaz; sadece bilgi penceresi açılır. Yükseltme yalnızca **"Kor Ocağı'nda yükselt"** düğmesiyle yapılır.
+- NPC açıkken eşya bilgisi NPC penceresinin üstünde açılır, çanta görünür kalır.
+- Haritadaki Bilge Ata işareti görev durumuna göre değişir: **!** alınabilir görev, **?** teslim edilecek görev; görev kalmadıysa sadece küçük bir nokta.
+
 ## v0.11.1 — Okçu sadaksız ok atamaz
 - Okçu artık ok atabilmek için yan el yuvasında **sadak** taşımalı. Sadak yoksa normal saldırı ve ok yetenekleri (Çifte Ok, Zehirli Ok, Ok Yağmuru) çalışmaz, "Okun yok!" uyarısı çıkar. Hız ve Keskin Göz güçlendirmeleri sadaksız da kullanılabilir.
 - Yeni okçular Deri Sadak takılı başlar. Hiç sadağı olmayan eski okçulara girişte bir kez Deri Sadak verilir.
