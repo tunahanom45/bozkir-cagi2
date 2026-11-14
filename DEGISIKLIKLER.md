@@ -1,5 +1,11 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.11.0 — Sadak, tek vuruş, devriye düzeni
+- **Okçuda hançer yerine sadak:** Yan el eşyaları artık ok kılıfı: **Deri Sadak** ve **Bozkır Sadağı**. Elde bıçak görünmez; sadak sırtta, okları omzunun üstünden görünür. Eski hançerlerin sadağa dönüşür, statları aynı kalır.
+- **R tuşu:** Her basışta **tek bir** normal saldırı yapar (hedef uzaktaysa yaklaşıp bir kez vurur). Yetenek kullanmak da artık otomatik saldırıyı başlatmaz.
+- **NPC'ler:** Tüccar, Demirci ve Bilge Ata ancak **yanlarına gidince** (3,5 m) E ile açılır. NPC'ye tıklarsan yanına yürürsün.
+- **Devriye görevleri bölgeye bağlandı:** Ova Devriyesi İlk Av'dan sonra açılır, **Ovayı Temizle** bitince kalıcı olarak kapanır. Koru Devriyesi Kemik Muskalar'la, Bataklık Devriyesi Ruh Tozu ile kapanır. Açıkken günde en fazla 3 kez yapılabilir. Kara Han'ın tekrar görevi kaldırıldı.
+
 ## v0.10.0 — Görevler ve Bilge Ata
 - **Yeni NPC: Bilge Ata.** Köyün kuzeyinde, kamp ateşinin başında oturur. Başının üstünde altın **!** varsa alabileceğin görev, **?** varsa teslim edeceğin görev var demektir. Yanına gidip **E** tuşuna bas ya da üstüne tıkla.
 - **Görev zinciri (Sv 1 → Kara Han):** İlk Av, Kırık Kemikler, Ovayı Temizle, Kemik Korusu, Kemik Muskalar, Kara Bataklık, Ruh Tozu ve son olarak Kara Han. Her görevin kendi hikâyesi var. Ödüller: TP, altın, iksir, Kor Taşı ve sınıfına uygun eşyalar (başlık, yan el, silah, kolye, yüzük, Ay Kolyesi).

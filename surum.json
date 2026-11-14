@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
-  "pck": "oyun_0.10.0.pck",
-  "sha256": "3cdcd44804ecdace7a2362a87882857a20816f1fb2b0662c0a8ae894215b2331",
+  "version": "0.11.0",
+  "pck": "oyun_0.11.0.pck",
+  "sha256": "f5fb8d9543904a3d115471775862508f18e5255f83de7b41f31b6409ca20d09a",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Yeni NPC: Bilge Ata.** Köyün kuzeyinde, kamp ateşinin başında oturur. Başının üstünde altın **!** varsa alabileceğin görev, **?** varsa teslim edeceğin görev var demektir. Yanına gidip **E** tuşuna bas ya da üstüne tıkla.\n- **Görev zinciri (Sv 1 → Kara Han):** İlk Av, Kırık Kemikler, Ovayı Temizle, Kemik Korusu, Kemik Muskalar, Kara Bataklık, Ruh Tozu ve son olarak Kara Han. Her görevin kendi hikâyesi var. Ödüller: TP, altın, iksir, Kor Taşı ve sınıfına uygun eşyalar (başlık, yan el, silah, kolye, yüzük, Ay Kolyesi).\n- **Tekrarlanabilir devriye görevleri:** Ova, Koru, Bataklık ve Kara Han devriyeleri bitince yeniden alınabilir.\n- Öldürme görevleri otomatik sayılır; toplama görevlerinde malzemeler teslim edince çantadan alınır. Aynı anda en fazla 5 görev.\n- **Görev takip listesi:** Ekranın sağında, mini haritanın altında aktif görevlerin ilerlemesi görünür (**L** ile aç/kapat). Mini haritada Bilge Ata sarı **!** ile işaretli."
+  "notes": "- **Okçuda hançer yerine sadak:** Yan el eşyaları artık ok kılıfı: **Deri Sadak** ve **Bozkır Sadağı**. Elde bıçak görünmez; sadak sırtta, okları omzunun üstünden görünür. Eski hançerlerin sadağa dönüşür, statları aynı kalır.\n- **R tuşu:** Her basışta **tek bir** normal saldırı yapar (hedef uzaktaysa yaklaşıp bir kez vurur). Yetenek kullanmak da artık otomatik saldırıyı başlatmaz.\n- **NPC'ler:** Tüccar, Demirci ve Bilge Ata ancak **yanlarına gidince** (3,5 m) E ile açılır. NPC'ye tıklarsan yanına yürürsün.\n- **Devriye görevleri bölgeye bağlandı:** Ova Devriyesi İlk Av'dan sonra açılır, **Ovayı Temizle** bitince kalıcı olarak kapanır. Koru Devriyesi Kemik Muskalar'la, Bataklık Devriyesi Ruh Tozu ile kapanır. Açıkken günde en fazla 3 kez yapılabilir. Kara Han'ın tekrar görevi kaldırıldı."
 }
