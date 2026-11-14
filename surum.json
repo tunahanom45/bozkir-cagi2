@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "pck": "oyun_0.9.1.pck",
-  "sha256": "7df2d78dd4133ecdd545363e5e043a1529678776d4961d698f5a17e9fce98a52",
+  "version": "0.10.0",
+  "pck": "oyun_0.10.0.pck",
+  "sha256": "3cdcd44804ecdace7a2362a87882857a20816f1fb2b0662c0a8ae894215b2331",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- İkonlar, sesler ve arayüz görselleri artık küçük güncelleme paketiyle gelir. 77 MB'lık model paketi yalnızca 3D modeller değiştiğinde yeniden iner; ikon veya ses değişikliği için tekrar indirmen gerekmez.\n- \"3D modeller indiriliyor\" ekranı pencerenin tam ortasında görünür."
+  "notes": "- **Yeni NPC: Bilge Ata.** Köyün kuzeyinde, kamp ateşinin başında oturur. Başının üstünde altın **!** varsa alabileceğin görev, **?** varsa teslim edeceğin görev var demektir. Yanına gidip **E** tuşuna bas ya da üstüne tıkla.\n- **Görev zinciri (Sv 1 → Kara Han):** İlk Av, Kırık Kemikler, Ovayı Temizle, Kemik Korusu, Kemik Muskalar, Kara Bataklık, Ruh Tozu ve son olarak Kara Han. Her görevin kendi hikâyesi var. Ödüller: TP, altın, iksir, Kor Taşı ve sınıfına uygun eşyalar (başlık, yan el, silah, kolye, yüzük, Ay Kolyesi).\n- **Tekrarlanabilir devriye görevleri:** Ova, Koru, Bataklık ve Kara Han devriyeleri bitince yeniden alınabilir.\n- Öldürme görevleri otomatik sayılır; toplama görevlerinde malzemeler teslim edince çantadan alınır. Aynı anda en fazla 5 görev.\n- **Görev takip listesi:** Ekranın sağında, mini haritanın altında aktif görevlerin ilerlemesi görünür (**L** ile aç/kapat). Mini haritada Bilge Ata sarı **!** ile işaretli."
 }

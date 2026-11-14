@@ -1,5 +1,12 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.10.0 — Görevler ve Bilge Ata
+- **Yeni NPC: Bilge Ata.** Köyün kuzeyinde, kamp ateşinin başında oturur. Başının üstünde altın **!** varsa alabileceğin görev, **?** varsa teslim edeceğin görev var demektir. Yanına gidip **E** tuşuna bas ya da üstüne tıkla.
+- **Görev zinciri (Sv 1 → Kara Han):** İlk Av, Kırık Kemikler, Ovayı Temizle, Kemik Korusu, Kemik Muskalar, Kara Bataklık, Ruh Tozu ve son olarak Kara Han. Her görevin kendi hikâyesi var. Ödüller: TP, altın, iksir, Kor Taşı ve sınıfına uygun eşyalar (başlık, yan el, silah, kolye, yüzük, Ay Kolyesi).
+- **Tekrarlanabilir devriye görevleri:** Ova, Koru, Bataklık ve Kara Han devriyeleri bitince yeniden alınabilir.
+- Öldürme görevleri otomatik sayılır; toplama görevlerinde malzemeler teslim edince çantadan alınır. Aynı anda en fazla 5 görev.
+- **Görev takip listesi:** Ekranın sağında, mini haritanın altında aktif görevlerin ilerlemesi görünür (**L** ile aç/kapat). Mini haritada Bilge Ata sarı **!** ile işaretli.
+
 ## v0.9.1 — Daha küçük güncellemeler
 - İkonlar, sesler ve arayüz görselleri artık küçük güncelleme paketiyle gelir. 77 MB'lık model paketi yalnızca 3D modeller değiştiğinde yeniden iner; ikon veya ses değişikliği için tekrar indirmen gerekmez.
 - "3D modeller indiriliyor" ekranı pencerenin tam ortasında görünür.
