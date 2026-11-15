@@ -1,5 +1,10 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.14.1 — Işınlanma sadece haritalar arası, Kemik Korusu düzeltmesi
+- **Işınlanma artık sadece haritalar arasında:** Köy portalından **Gölge Diyarı** (Sv 10) ve **Kuzey Diyarı** (Sv 21) kamplarına gidilir. Kamplardaki Yolculuk Taşı'ndan köye ya da diğer haritaya dönülür. Bölgelerin içindeki dönüş taşları kaldırıldı; harita içinde yürüyerek gidilir.
+- **Kemik Korusu ve Kemik Ovası:** çizgi film gibi duran mavi-gri kaya blokları gerçek kaya modelleriyle değiştirildi. Renkli çadırların yerine deri çadırlar geldi. Pembe odun yığınları gerçek kütük yığınları oldu.
+- Kamp ateşlerinin taş halkaları gerçekçi taşlarla yenilendi.
+
 ## v0.14.0 — Yeni haritalar: Gölge Diyarı ve Kuzey Diyarı
 - **Dünya üç haritaya bölündü:**
   - **Bozkır (ana harita):** Ötüken Köyü, Kemik Ovası, Kemik Korusu, Kara Bataklık, Kara Han Mağarası (Sv 1-10).

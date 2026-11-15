@@ -1,7 +1,7 @@
 {
-  "version": "0.14.0",
-  "pck": "oyun_0.14.0.pck",
-  "sha256": "16f672332f175b661b8157a2583cb10e25fc64476c4c8aa5875bf0c41a4d9a4f",
+  "version": "0.14.1",
+  "pck": "oyun_0.14.1.pck",
+  "sha256": "8cae99b2515cc019345efd13ebef42a69b4685627fb287c4493f74a00f479b3c",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Dünya üç haritaya bölündü:**\n  - **Bozkır (ana harita):** Ötüken Köyü, Kemik Ovası, Kemik Korusu, Kara Bataklık, Kara Han Mağarası (Sv 1-10).\n  - **Gölge Diyarı:** kurak, kızıl bozkır. Ortada **Gölge Kampı**, kuzeydoğuda **Yıkık Kurgan** (Sv 10-14), güneydoğuda **Kızıl Kanyon** (Sv 15-20).\n  - **Kuzey Diyarı:** karlı çam ormanları ve kırağılı çayırlar. Ortada **Kuzey Kampı**, güneybatıda **Ayaz Tepeleri** (Sv 21-26), kuzeybatıda **Erlik Kapısı** (BOSS Sv 28).\n- **Haritalar arası geçiş:**\n  - **Köy portalı:** Yolculuk listesinden istediğin haritanın kampına ya da bölgesine ışınlanırsın.\n  - **Kenar kapıları:** Bozkır'ın doğu ucundaki **Gölge Diyarı Kapısı**'na yürüyünce geçersin (Sv 10). Gölge Diyarı'nın doğu ucunda **Kuzey Diyarı Kapısı** var (Sv 21). Her kapının karşı tarafında geri dönüş kapısı da var.\n- Gölge ve Kuzey Diyarı'nda ölürsen o haritanın kampında yeniden doğarsın.\n- Büyük harita (M) ve mini harita bulunduğun haritayı gösterir.\n- Bilge Ata'nın görev metinleri yeni yerlere göre güncellendi."
+  "notes": "- **Işınlanma artık sadece haritalar arasında:** Köy portalından **Gölge Diyarı** (Sv 10) ve **Kuzey Diyarı** (Sv 21) kamplarına gidilir. Kamplardaki Yolculuk Taşı'ndan köye ya da diğer haritaya dönülür. Bölgelerin içindeki dönüş taşları kaldırıldı; harita içinde yürüyerek gidilir.\n- **Kemik Korusu ve Kemik Ovası:** çizgi film gibi duran mavi-gri kaya blokları gerçek kaya modelleriyle değiştirildi. Renkli çadırların yerine deri çadırlar geldi. Pembe odun yığınları gerçek kütük yığınları oldu.\n- Kamp ateşlerinin taş halkaları gerçekçi taşlarla yenilendi."
 }
