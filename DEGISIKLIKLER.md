@@ -1,5 +1,17 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.14.0 — Yeni haritalar: Gölge Diyarı ve Kuzey Diyarı
+- **Dünya üç haritaya bölündü:**
+  - **Bozkır (ana harita):** Ötüken Köyü, Kemik Ovası, Kemik Korusu, Kara Bataklık, Kara Han Mağarası (Sv 1-10).
+  - **Gölge Diyarı:** kurak, kızıl bozkır. Ortada **Gölge Kampı**, kuzeydoğuda **Yıkık Kurgan** (Sv 10-14), güneydoğuda **Kızıl Kanyon** (Sv 15-20).
+  - **Kuzey Diyarı:** karlı çam ormanları ve kırağılı çayırlar. Ortada **Kuzey Kampı**, güneybatıda **Ayaz Tepeleri** (Sv 21-26), kuzeybatıda **Erlik Kapısı** (BOSS Sv 28).
+- **Haritalar arası geçiş:**
+  - **Köy portalı:** Yolculuk listesinden istediğin haritanın kampına ya da bölgesine ışınlanırsın.
+  - **Kenar kapıları:** Bozkır'ın doğu ucundaki **Gölge Diyarı Kapısı**'na yürüyünce geçersin (Sv 10). Gölge Diyarı'nın doğu ucunda **Kuzey Diyarı Kapısı** var (Sv 21). Her kapının karşı tarafında geri dönüş kapısı da var.
+- Gölge ve Kuzey Diyarı'nda ölürsen o haritanın kampında yeniden doğarsın.
+- Büyük harita (M) ve mini harita bulunduğun haritayı gösterir.
+- Bilge Ata'nın görev metinleri yeni yerlere göre güncellendi.
+
 ## v0.13.1 — Kaya ve kütük düzeltmesi
 - Haritadaki bazı kayalarda görülen delikler/kopuk parçalar düzeltildi; bozuk büyük kaya modeli sağlam bir kaya ile değiştirildi.
 - Dalı üstünde havada duruyormuş gibi görünen devrik kütükler yere tam yatan kütüklerle değiştirildi.
