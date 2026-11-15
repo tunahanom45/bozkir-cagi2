@@ -1,7 +1,7 @@
 {
-  "version": "0.15.1",
-  "pck": "oyun_0.15.1.pck",
-  "sha256": "8b17baed3e00fa603f69798deb6729063f94320f2b0b389336e888a12126bcfc",
+  "version": "0.15.2",
+  "pck": "oyun_0.15.2.pck",
+  "sha256": "d2fa1c563e9ca41c7fff235c9f88dffcee988218c5781824d6b7ea889b902646",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Gölge Kağan** artık Gölge Avcı'nın büyük hali değil: mor kristalli dikenli taç, kürklü dikenli omuzluklar, yere kadar yırtık pelerin, mor parlayan gözler ve kenarı parlayan iki elli eğri pala taşıyor. Etrafında gölge dumanı süzülüyor.\n- **Kızıl Mızrakçı** Kara Han'a benzemesin diye yenilendi: boynuzlu miğfer kalktı. Yerine savaş boyalı kızıl kafatası, kızıl-kemik sorguç, pullu göğüs zırhı, deri yuvarlak kalkan ve flamalı uzun mızrak geldi."
+  "notes": "- Giriş ekranında Yenilikler penceresi artık giriş kutusunun üstüne binmiyor; grafik kalitesi ve sunucu adresi tamamen görünüyor."
 }

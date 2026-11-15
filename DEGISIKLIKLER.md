@@ -1,5 +1,8 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.15.2 — Giriş ekranı düzeltmesi
+- Giriş ekranında Yenilikler penceresi artık giriş kutusunun üstüne binmiyor; grafik kalitesi ve sunucu adresi tamamen görünüyor.
+
 ## v0.15.1 — Canavarlar birbirine benzemiyor
 - **Gölge Kağan** artık Gölge Avcı'nın büyük hali değil: mor kristalli dikenli taç, kürklü dikenli omuzluklar, yere kadar yırtık pelerin, mor parlayan gözler ve kenarı parlayan iki elli eğri pala taşıyor. Etrafında gölge dumanı süzülüyor.
 - **Kızıl Mızrakçı** Kara Han'a benzemesin diye yenilendi: boynuzlu miğfer kalktı. Yerine savaş boyalı kızıl kafatası, kızıl-kemik sorguç, pullu göğüs zırhı, deri yuvarlak kalkan ve flamalı uzun mızrak geldi.
