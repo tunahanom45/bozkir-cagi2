@@ -1,5 +1,8 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.15.3 — Kamplarda büyük portal
+- Gölge Kampı ve Kuzey Kampı'ndaki küçük yolculuk taşının yerine köydeki gibi büyük **Işınlanma Portalı** geldi (kamp ateşinin kuzeyinde, Bilge Ata'nın arkasında). E ile köye ya da diğer haritaya gidilir.
+
 ## v0.15.2 — Giriş ekranı düzeltmesi
 - Giriş ekranında Yenilikler penceresi artık giriş kutusunun üstüne binmiyor; grafik kalitesi ve sunucu adresi tamamen görünüyor.
 

@@ -1,7 +1,7 @@
 {
-  "version": "0.15.2",
-  "pck": "oyun_0.15.2.pck",
-  "sha256": "d2fa1c563e9ca41c7fff235c9f88dffcee988218c5781824d6b7ea889b902646",
+  "version": "0.15.3",
+  "pck": "oyun_0.15.3.pck",
+  "sha256": "e7bb1b6b1765720445c99b68d3e5da940c89846d97c3eb1cdbeac6467f4d9762",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- Giriş ekranında Yenilikler penceresi artık giriş kutusunun üstüne binmiyor; grafik kalitesi ve sunucu adresi tamamen görünüyor."
+  "notes": "- Gölge Kampı ve Kuzey Kampı'ndaki küçük yolculuk taşının yerine köydeki gibi büyük **Işınlanma Portalı** geldi (kamp ateşinin kuzeyinde, Bilge Ata'nın arkasında). E ile köye ya da diğer haritaya gidilir."
 }
