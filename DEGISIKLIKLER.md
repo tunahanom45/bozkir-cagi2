@@ -1,5 +1,9 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.15.1 — Canavarlar birbirine benzemiyor
+- **Gölge Kağan** artık Gölge Avcı'nın büyük hali değil: mor kristalli dikenli taç, kürklü dikenli omuzluklar, yere kadar yırtık pelerin, mor parlayan gözler ve kenarı parlayan iki elli eğri pala taşıyor. Etrafında gölge dumanı süzülüyor.
+- **Kızıl Mızrakçı** Kara Han'a benzemesin diye yenilendi: boynuzlu miğfer kalktı. Yerine savaş boyalı kızıl kafatası, kızıl-kemik sorguç, pullu göğüs zırhı, deri yuvarlak kalkan ve flamalı uzun mızrak geldi.
+
 ## v0.15.0 — Gölge Kağan, kamplarda NPC'ler, beceri ayrıntıları
 - **Yeni boss: Gölge Kağan (Sv 20).** Gölge Diyarı'nın kuzeybatısında, kara otağının önünde bekliyor. Bilge Ata'da yeni görev var: **Gölge Kağan** (Sv 19, Kızıl Cevher'den sonra).
 - **Kamplarda NPC'ler:** Gölge Kampı ve Kuzey Kampı'nda da Tüccar, Demirci (Kor Ocağı), Otacı Ana ve Bilge Ata var.
