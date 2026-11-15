@@ -1,5 +1,13 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.15.0 — Gölge Kağan, kamplarda NPC'ler, beceri ayrıntıları
+- **Yeni boss: Gölge Kağan (Sv 20).** Gölge Diyarı'nın kuzeybatısında, kara otağının önünde bekliyor. Bilge Ata'da yeni görev var: **Gölge Kağan** (Sv 19, Kızıl Cevher'den sonra).
+- **Kamplarda NPC'ler:** Gölge Kampı ve Kuzey Kampı'nda da Tüccar, Demirci (Kor Ocağı), Otacı Ana ve Bilge Ata var.
+- **Her canavar sandık bırakır:** Öldürdüğün her canavardan en az bir eşya düşer.
+- **Yükleme ekranı:** Haritalar arası geçerken "Yükleniyor..." ekranı çıkar.
+- **Beceri penceresi (K):** Becerilerin altındaki kısa yazılar kalktı. Bir beceriye **sol tıklayınca** sağda ayrıntı açılır: ne yaptığı, şu anki ve sonraki seviyedeki etkisi, mana ve bekleme süresi. Örneğin "Hareket hızı %50 artar, 8 sn sürer".
+- **İçinden geçilen yerler düzeltildi:** Yıkık Kurgan höyüklerinin ve Kızıl Kanyon kayalıklarının içine artık girilemez.
+
 ## v0.14.2 — Gerçekçi nesneler, arkadaşlarla oynama kolaylığı
 - **Nesneler gerçekçi oldu:**
   - **Eşyalar:** sandıklar ve variller demir çemberli, dokulu ahşap. Çuval, el arabası, silah rafı, saman okçuluk hedefi, kütük çitler, kova ve bayraklar da yenilendi.

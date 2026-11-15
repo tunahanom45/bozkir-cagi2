@@ -1,7 +1,7 @@
 {
-  "version": "0.14.2",
-  "pck": "oyun_0.14.2.pck",
-  "sha256": "5c4cdcb06360d57ca38cbb77b439321ffde9d7dfc394e567177ea9319cfea5df",
+  "version": "0.15.0",
+  "pck": "oyun_0.15.0.pck",
+  "sha256": "741fb16faa07d9e9adbaaf34f89a364ddd50ae9b0a8b7f13157dfea6b4091851",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Nesneler gerçekçi oldu:**\n  - **Eşyalar:** sandıklar ve variller demir çemberli, dokulu ahşap. Çuval, el arabası, silah rafı, saman okçuluk hedefi, kütük çitler, kova ve bayraklar da yenilendi.\n  - **Köy:** kuyu taştan, ahşap çatılı. Tüccar tezgâhı ahşap ve kumaştan, Kor Ocağı taş örgülü ve örsü kütük üstünde. Otacı Ana'nın kazanı demirden. Yurtlar ve çadırlar keçe dokulu. At ağılının bozuk çitleri düzeltildi.\n  - **Kara Bataklık:** yeşil kutu gibi duran harabeler yosunlu taş oldu. Su birikintilerinin çamurlu kıyıları ve koyu suyu var.\n  - **Kemik Ovası ve Kara Han:** iskeletler kemik dokulu, moloz taşları gerçekçi.\n- **Arkadaşlarla oynama:**\n  - Sunucu penceresi açılınca **Tailscale adresini** (100.x.x.x) yazar; arkadaşların bu adresle bağlanır.\n  - Aynı evdekiler için yerel ağ adresini de gösterir.\n- **Eski model paketleri** (varlik_1-3.pck, yaklaşık 175 MB) artık açılışta silinir."
+  "notes": "- **Yeni boss: Gölge Kağan (Sv 20).** Gölge Diyarı'nın kuzeybatısında, kara otağının önünde bekliyor. Bilge Ata'da yeni görev var: **Gölge Kağan** (Sv 19, Kızıl Cevher'den sonra).\n- **Kamplarda NPC'ler:** Gölge Kampı ve Kuzey Kampı'nda da Tüccar, Demirci (Kor Ocağı), Otacı Ana ve Bilge Ata var.\n- **Her canavar sandık bırakır:** Öldürdüğün her canavardan en az bir eşya düşer.\n- **Yükleme ekranı:** Haritalar arası geçerken \"Yükleniyor...\" ekranı çıkar.\n- **Beceri penceresi (K):** Becerilerin altındaki kısa yazılar kalktı. Bir beceriye **sol tıklayınca** sağda ayrıntı açılır: ne yaptığı, şu anki ve sonraki seviyedeki etkisi, mana ve bekleme süresi. Örneğin \"Hareket hızı %50 artar, 8 sn sürer\".\n- **İçinden geçilen yerler düzeltildi:** Yıkık Kurgan höyüklerinin ve Kızıl Kanyon kayalıklarının içine artık girilemez."
 }
