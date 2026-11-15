@@ -1,7 +1,7 @@
 {
-  "version": "0.14.1",
-  "pck": "oyun_0.14.1.pck",
-  "sha256": "8cae99b2515cc019345efd13ebef42a69b4685627fb287c4493f74a00f479b3c",
+  "version": "0.14.2",
+  "pck": "oyun_0.14.2.pck",
+  "sha256": "5c4cdcb06360d57ca38cbb77b439321ffde9d7dfc394e567177ea9319cfea5df",
   "varlik": 4,
   "exe": {
     "Windows": {
@@ -10,5 +10,5 @@
       "sha256": "ca15056f5bcc5cea3c6e29f63230fdc5b6ca25b43241a8eb6d3fb7a8eaec1cc4"
     }
   },
-  "notes": "- **Işınlanma artık sadece haritalar arasında:** Köy portalından **Gölge Diyarı** (Sv 10) ve **Kuzey Diyarı** (Sv 21) kamplarına gidilir. Kamplardaki Yolculuk Taşı'ndan köye ya da diğer haritaya dönülür. Bölgelerin içindeki dönüş taşları kaldırıldı; harita içinde yürüyerek gidilir.\n- **Kemik Korusu ve Kemik Ovası:** çizgi film gibi duran mavi-gri kaya blokları gerçek kaya modelleriyle değiştirildi. Renkli çadırların yerine deri çadırlar geldi. Pembe odun yığınları gerçek kütük yığınları oldu.\n- Kamp ateşlerinin taş halkaları gerçekçi taşlarla yenilendi."
+  "notes": "- **Nesneler gerçekçi oldu:**\n  - **Eşyalar:** sandıklar ve variller demir çemberli, dokulu ahşap. Çuval, el arabası, silah rafı, saman okçuluk hedefi, kütük çitler, kova ve bayraklar da yenilendi.\n  - **Köy:** kuyu taştan, ahşap çatılı. Tüccar tezgâhı ahşap ve kumaştan, Kor Ocağı taş örgülü ve örsü kütük üstünde. Otacı Ana'nın kazanı demirden. Yurtlar ve çadırlar keçe dokulu. At ağılının bozuk çitleri düzeltildi.\n  - **Kara Bataklık:** yeşil kutu gibi duran harabeler yosunlu taş oldu. Su birikintilerinin çamurlu kıyıları ve koyu suyu var.\n  - **Kemik Ovası ve Kara Han:** iskeletler kemik dokulu, moloz taşları gerçekçi.\n- **Arkadaşlarla oynama:**\n  - Sunucu penceresi açılınca **Tailscale adresini** (100.x.x.x) yazar; arkadaşların bu adresle bağlanır.\n  - Aynı evdekiler için yerel ağ adresini de gösterir.\n- **Eski model paketleri** (varlik_1-3.pck, yaklaşık 175 MB) artık açılışta silinir."
 }

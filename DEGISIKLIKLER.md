@@ -1,5 +1,16 @@
 # Bozkır Çağı — Değişiklik Notları
 
+## v0.14.2 — Gerçekçi nesneler, arkadaşlarla oynama kolaylığı
+- **Nesneler gerçekçi oldu:**
+  - **Eşyalar:** sandıklar ve variller demir çemberli, dokulu ahşap. Çuval, el arabası, silah rafı, saman okçuluk hedefi, kütük çitler, kova ve bayraklar da yenilendi.
+  - **Köy:** kuyu taştan, ahşap çatılı. Tüccar tezgâhı ahşap ve kumaştan, Kor Ocağı taş örgülü ve örsü kütük üstünde. Otacı Ana'nın kazanı demirden. Yurtlar ve çadırlar keçe dokulu. At ağılının bozuk çitleri düzeltildi.
+  - **Kara Bataklık:** yeşil kutu gibi duran harabeler yosunlu taş oldu. Su birikintilerinin çamurlu kıyıları ve koyu suyu var.
+  - **Kemik Ovası ve Kara Han:** iskeletler kemik dokulu, moloz taşları gerçekçi.
+- **Arkadaşlarla oynama:**
+  - Sunucu penceresi açılınca **Tailscale adresini** (100.x.x.x) yazar; arkadaşların bu adresle bağlanır.
+  - Aynı evdekiler için yerel ağ adresini de gösterir.
+- **Eski model paketleri** (varlik_1-3.pck, yaklaşık 175 MB) artık açılışta silinir.
+
 ## v0.14.1 — Işınlanma sadece haritalar arası, Kemik Korusu düzeltmesi
 - **Işınlanma artık sadece haritalar arasında:** Köy portalından **Gölge Diyarı** (Sv 10) ve **Kuzey Diyarı** (Sv 21) kamplarına gidilir. Kamplardaki Yolculuk Taşı'ndan köye ya da diğer haritaya dönülür. Bölgelerin içindeki dönüş taşları kaldırıldı; harita içinde yürüyerek gidilir.
 - **Kemik Korusu ve Kemik Ovası:** çizgi film gibi duran mavi-gri kaya blokları gerçek kaya modelleriyle değiştirildi. Renkli çadırların yerine deri çadırlar geldi. Pembe odun yığınları gerçek kütük yığınları oldu.
